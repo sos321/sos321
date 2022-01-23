@@ -1,4 +1,15 @@
-### Hi there 👋
+## Hi I'm Filip 😎
+
+### My skills
+✔️ **C#**\
+✔️ **Python**\
+✔️ **HTML**\
+✔️ **CSS**
+
+### Currently Learning
+
+
+
 
 <!--
 **sos321/sos321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
