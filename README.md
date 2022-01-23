@@ -6,7 +6,7 @@
 ✔️ **HTML**\
 ✔️ **CSS**
 
-### Currently Learning
+### Currently Learning other fun stuff 👨‍🎓
 
 
 
