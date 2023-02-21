@@ -28,9 +28,25 @@
       .em {
         color: #4da888;
       }
+       .wave {
+        transform-origin: 70% 70%;
+        animation: wave 3s linear -3s infinite;
+      }
+      @keyframes wave {
+        25% { transform: rotate(0deg); }
+        30% { transform: rotate(15deg); }
+        35% { transform: rotate(0deg); }
+        40% { transform: rotate(15deg); }
+        45% { transform: rotate(0deg); }
+        80% { transform: rotate(0deg); }
+        85% { transform: rotate(15deg); }
+        90% { transform: rotate(0deg); }
+        95% { transform: rotate(15deg); }
+        100% { transform: rotate(0deg); }
+      }
     </style>
     <div class="container">
-      <h1><span>👋</span> Welcome <span>👋</span></h1>
+      <h1><span class="wave">👋</span> Welcome <span class="wave">👋</span></h1>
       <p class="name">Name is <span class="em">Filip</span>.</p>
       <p class="what">Currently a <span class="em">Student</span>.</p>
       <p class="aim">Aim: <span class="em">Fullstack Developer</span>.</p>
