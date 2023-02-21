@@ -1,0 +1,78 @@
+<svg fill="none" viewBox="0 0 600 400" width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+  <div xmlns="http://www.w3.org/1999/xhtml">
+ <style>
+      * {
+        font-family: "Open Sans", sans-serif;
+      }
+      .container {
+        width: 600px;
+        height: 400px;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+      }
+      h1 {
+        text-transform: uppercase;
+        font-size: 3.5rem;
+        margin-bottom: 25px;
+        color: #b9dfd2;
+        font-weight: 700;
+      }
+      p {
+        font-size: 24px;
+        line-height: 20px;
+        color: #81c5ad;
+        font-weight: 700;
+      }
+      .em {
+        color: #4da888;
+      }
+    </style>
+    <div class="container">
+      <h1><span>👋</span> Welcome <span>👋</span></h1>
+      <p class="name">Name is <span class="em">Filip</span>.</p>
+      <p class="what">Currently a <span class="em">Student</span>.</p>
+      <p class="aim">Aim: <span class="em">Fullstack Developer</span>.</p>
+      <p class="lost-in">I won't get lost in:</p>
+      <div class="carousel">
+        <img
+          src="./html5.svg"
+          width="30px"
+        /><img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+          width="30px"
+        /><img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+          width="30px"
+        /><img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
+          width="30px"
+        /><img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+          width="30px"
+        /><img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
+          width="30px"
+        /><img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+          width="30px"
+        />
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+          width="30px"
+        /><img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+          width="30px"
+        /><img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+          width="30px"
+        /><img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
+          width="30px"
+        />
+      </div>
+    </div>
+  </div>
+  </foreignObject>
+</svg>
